@@ -63,7 +63,3 @@ O relatório também é exportado automaticamente para `relatorio.txt` na mesma 
 
 - Python 3
 - Módulos da biblioteca padrão: `csv`, `os` (sem dependências externas)
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
